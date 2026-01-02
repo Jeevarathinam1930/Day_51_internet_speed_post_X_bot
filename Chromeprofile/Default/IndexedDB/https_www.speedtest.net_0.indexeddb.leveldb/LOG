@@ -1,0 +1,26 @@
+2026/01/02-12:27:53.412 5738 Reusing MANIFEST C:\Users\jeeva\PycharmProjects\Day 51\Chromeprofile\Default\IndexedDB\https_www.speedtest.net_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/02-12:27:53.413 5738 Recovering log #64
+2026/01/02-12:27:53.414 5738 Reusing old log C:\Users\jeeva\PycharmProjects\Day 51\Chromeprofile\Default\IndexedDB\https_www.speedtest.net_0.indexeddb.leveldb/000064.log 
+2026/01/02-12:27:53.415 5738 Delete type=2 #62
+2026/01/02-12:27:53.502 7fd4 Level-0 table #69: started
+2026/01/02-12:27:53.514 7fd4 Level-0 table #69: 8897 bytes OK
+2026/01/02-12:27:53.526 7fd4 Delete type=0 #64
+2026/01/02-12:27:53.527 cbc Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1e\x00\x00\x05' @ 5226 : 1
+2026/01/02-12:27:53.528 cbc Compacting 1@0 + 1@1 files
+2026/01/02-12:27:53.534 cbc Generated table #70@0: 424 keys, 7696 bytes
+2026/01/02-12:27:53.535 cbc Compacted 1@0 + 1@1 files => 7696 bytes
+2026/01/02-12:27:53.538 cbc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/02-12:27:53.539 cbc Delete type=2 #69
+2026/01/02-12:27:53.540 cbc Manual compaction at level-0 from '\x00\x1e\x00\x00\x05' @ 5226 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/02-12:27:53.868 7fd4 Level-0 table #72: started
+2026/01/02-12:27:53.876 7fd4 Level-0 table #72: 6478 bytes OK
+2026/01/02-12:27:53.884 7fd4 Delete type=2 #66
+2026/01/02-12:27:53.884 7fd4 Delete type=0 #68
+2026/01/02-12:27:53.885 5738 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at '\x00 \x00\x00\xc8\x18\x00u\x00s\x00e\x00r\x00_\x00U\x00n\x00i\x00v\x00S\x00p\x00e\x00e\x00d\x00T\x00e\x00s\x00t\x00R\x00e\x00s\x00u\x00l\x00t' @ 5397 : 1
+2026/01/02-12:27:53.885 5738 Compacting 1@0 + 1@1 files
+2026/01/02-12:27:53.891 5738 Generated table #73@0: 492 keys, 8810 bytes
+2026/01/02-12:27:53.891 5738 Compacted 1@0 + 1@1 files => 8810 bytes
+2026/01/02-12:27:53.895 5738 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/02-12:27:53.895 5738 Delete type=2 #72
+2026/01/02-12:27:53.896 5738 Manual compaction at level-0 from '\x00 \x00\x00\xc8\x18\x00u\x00s\x00e\x00r\x00_\x00U\x00n\x00i\x00v\x00S\x00p\x00e\x00e\x00d\x00T\x00e\x00s\x00t\x00R\x00e\x00s\x00u\x00l\x00t' @ 5397 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/02-12:27:54.034 7fd4 Manual compaction at level-0 from '\x00 \x00\x00\x00' @ 72057594037927935 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at (end)

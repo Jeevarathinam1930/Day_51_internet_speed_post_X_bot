@@ -1,0 +1,8 @@
+2026/01/01-19:33:17.630 66e0 Creating DB C:\Users\jeeva\PycharmProjects\Day 51\Chromeprofile1\Default\IndexedDB\https_www.speedtest.net_0.indexeddb.leveldb since it was missing.
+2026/01/01-19:33:17.650 66e0 Reusing MANIFEST C:\Users\jeeva\PycharmProjects\Day 51\Chromeprofile1\Default\IndexedDB\https_www.speedtest.net_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/01-19:33:17.731 7b5c Level-0 table #5: started
+2026/01/01-19:33:17.744 7b5c Level-0 table #5: 1710 bytes OK
+2026/01/01-19:33:17.755 7b5c Delete type=0 #3
+2026/01/01-19:33:17.756 66e0 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/01-19:33:17.777 7b5c Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/01-19:33:17.792 7b5c Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

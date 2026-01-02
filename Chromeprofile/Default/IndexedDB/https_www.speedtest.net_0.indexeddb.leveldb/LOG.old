@@ -1,0 +1,16 @@
+2026/01/02-12:24:05.150 10e4 Reusing MANIFEST C:\Users\jeeva\PycharmProjects\Day 51\Chromeprofile\Default\IndexedDB\https_www.speedtest.net_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/02-12:24:05.152 10e4 Recovering log #60
+2026/01/02-12:24:05.152 10e4 Reusing old log C:\Users\jeeva\PycharmProjects\Day 51\Chromeprofile\Default\IndexedDB\https_www.speedtest.net_0.indexeddb.leveldb/000060.log 
+2026/01/02-12:24:05.153 10e4 Delete type=2 #59
+2026/01/02-12:24:05.285 5a6c Level-0 table #65: started
+2026/01/02-12:24:05.298 5a6c Level-0 table #65: 1445 bytes OK
+2026/01/02-12:24:05.305 5a6c Delete type=0 #60
+2026/01/02-12:24:05.306 5a6c Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1b\x00\x00\x05' @ 4695 : 1
+2026/01/02-12:24:05.308 5a6c Compacting 1@0 + 1@1 files
+2026/01/02-12:24:05.316 5a6c Generated table #66@0: 422 keys, 7607 bytes
+2026/01/02-12:24:05.316 5a6c Compacted 1@0 + 1@1 files => 7607 bytes
+2026/01/02-12:24:05.320 5a6c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/02-12:24:05.322 5a6c Delete type=2 #65
+2026/01/02-12:24:05.323 10e4 Manual compaction at level-0 from '\x00\x1b\x00\x00\x05' @ 4695 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/02-12:24:05.488 5a6c Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/02-12:24:05.772 5a6c Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
